@@ -1,0 +1,17 @@
+.draggable-container {
+  min-width: 20px;
+  min-height: 20px;
+  position: absolute;
+  cursor: pointer;
+}
+
+.draggable {
+  width: 10px;
+  height: 10px;
+  border: solid 2px;
+  border-radius: 10px;
+}
+
+.draggable-text {
+  margin-left: 10px;
+}
